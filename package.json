@@ -1,0 +1,8 @@
+{
+  "name": "handson-typescript",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:jackkitte/handson-typescript.git",
+  "author": "jackkitte <jackkitte735@gmail.com>",
+  "license": "MIT"
+}
